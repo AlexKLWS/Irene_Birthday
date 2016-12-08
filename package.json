@@ -1,0 +1,15 @@
+{
+  "name": "irene_birthday_project",
+  "version": "1.0.0",
+  "description": "Just a little pretty animation website for a girl I love",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "authors": "Alex Korzh, Jason Labbe",
+  "license": "ISC"
+}
